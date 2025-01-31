@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-Game
-Rock, Paper, Scissors -Game mini project
+Preview- https://htmlpreview.github.io/?https://github.com/amalverse/Rock-Paper-Scissors-Game/blob/main/index.html
